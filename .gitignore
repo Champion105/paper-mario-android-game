@@ -1,0 +1,56 @@
+# Built artifacts
+bin/
+gen/
+out/
+build/
+.gradle/
+app/build/
+
+# Local configuration files
+local.properties
+.DS_Store
+
+# Android Studio / IntelliJ IDEA
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/caches/
+.idea/compiler.xml
+.idea/copyright/
+.idea/inspectionProfiles/
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/shelf/
+.idea/vcs.xml
+.idea/encodings.xml
+.idea/modules/
+*.iml
+*.iws
+*.ipr
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# External native build
+.externalNativeBuild/
+.cxx/
+
+# Captures
+captures/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services
+google-services.json
+
+# Log files
+*.log
+
+# NDK
+obj/
